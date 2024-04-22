@@ -1,0 +1,11 @@
+C:\Users\дюха\Desktop\RUST RUST RRRRRRRRRRRRRRRRRRRRRRRRRRRR\rust-warp-jwt\target\debug\deps\libdigest-d61dd10d8b52313b.rmeta: C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\lib.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\digest.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\dyn_digest.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\errors.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\fixed.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\variable.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\xof.rs
+
+C:\Users\дюха\Desktop\RUST RUST RRRRRRRRRRRRRRRRRRRRRRRRRRRR\rust-warp-jwt\target\debug\deps\digest-d61dd10d8b52313b.d: C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\lib.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\digest.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\dyn_digest.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\errors.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\fixed.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\variable.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\xof.rs
+
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\lib.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\digest.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\dyn_digest.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\errors.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\fixed.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\variable.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\digest-0.9.0\src\xof.rs:

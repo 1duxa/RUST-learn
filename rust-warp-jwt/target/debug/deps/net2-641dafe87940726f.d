@@ -1,0 +1,12 @@
+C:\Users\дюха\Desktop\RUST RUST RRRRRRRRRRRRRRRRRRRRRRRRRRRR\rust-warp-jwt\target\debug\deps\libnet2-641dafe87940726f.rmeta: C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\lib.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\tcp.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\udp.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\socket.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\ext.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\utils.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\mod.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\impls.rs
+
+C:\Users\дюха\Desktop\RUST RUST RRRRRRRRRRRRRRRRRRRRRRRRRRRR\rust-warp-jwt\target\debug\deps\net2-641dafe87940726f.d: C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\lib.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\tcp.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\udp.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\socket.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\ext.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\utils.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\mod.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\impls.rs
+
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\lib.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\tcp.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\udp.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\socket.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\ext.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\utils.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\mod.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\impls.rs:
