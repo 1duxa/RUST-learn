@@ -1,0 +1,10 @@
+C:\Users\дюха\Desktop\RUST RUST RRRRRRRRRRRRRRRRRRRRRRRRRRRR\rust-learn\target\debug\deps\libanstyle_wincon-2b6fad57632cebef.rmeta: C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\lib.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\ansi.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\stream.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\windows.rs
+
+C:\Users\дюха\Desktop\RUST RUST RRRRRRRRRRRRRRRRRRRRRRRRRRRR\rust-learn\target\debug\deps\libanstyle_wincon-2b6fad57632cebef.rlib: C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\lib.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\ansi.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\stream.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\windows.rs
+
+C:\Users\дюха\Desktop\RUST RUST RRRRRRRRRRRRRRRRRRRRRRRRRRRR\rust-learn\target\debug\deps\anstyle_wincon-2b6fad57632cebef.d: C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\lib.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\ansi.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\stream.rs C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\windows.rs
+
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\lib.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\ansi.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\stream.rs:
+C:\Users\дюха\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-3.0.2\src\windows.rs:
