@@ -1,0 +1,9 @@
+/home/duxa/rust-blockchain/target/debug/deps/libclap-a486f40138b48448.rmeta: /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/../examples/demo.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/../examples/demo.md
+
+/home/duxa/rust-blockchain/target/debug/deps/libclap-a486f40138b48448.rlib: /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/../examples/demo.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/../examples/demo.md
+
+/home/duxa/rust-blockchain/target/debug/deps/clap-a486f40138b48448.d: /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/../examples/demo.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/../examples/demo.md
+
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/lib.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/../examples/demo.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clap-4.5.6/src/../examples/demo.md:

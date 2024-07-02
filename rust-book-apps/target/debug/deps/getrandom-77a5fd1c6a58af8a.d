@@ -1,0 +1,12 @@
+/home/duxa/RUST-learn/rust-book-apps/target/debug/deps/libgetrandom-77a5fd1c6a58af8a.rmeta: /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error_impls.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util_libc.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/use_file.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lazy.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/linux_android_with_fallback.rs
+
+/home/duxa/RUST-learn/rust-book-apps/target/debug/deps/getrandom-77a5fd1c6a58af8a.d: /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error_impls.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util_libc.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/use_file.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lazy.rs /home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/linux_android_with_fallback.rs
+
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lib.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/error_impls.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/util_libc.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/use_file.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/lazy.rs:
+/home/duxa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.14/src/linux_android_with_fallback.rs:
